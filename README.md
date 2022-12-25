@@ -1,1 +1,1 @@
-# spring-bot-cache-toturial
+# spring-bot-cache-redis-toturial
